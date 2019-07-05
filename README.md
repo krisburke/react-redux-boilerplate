@@ -3,6 +3,8 @@ This boilerplate was bootstrapped with [Create React App](https://github.com/fac
 ## Additions
 
 -   [TypeScript](https://github.com/microsoft/TypeScript)
+-   [Redux](https://github.com/reduxjs/redux)
+-   [React Router](https://github.com/ReactTraining/react-router)
 -   [styled-components](https://github.com/styled-components/styled-components)
 -   [Blueprint](https://github.com/palantir/blueprint)
 -   [Prettier](https://github.com/prettier/prettier)
