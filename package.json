@@ -1,14 +1,14 @@
 {
-    "name": "react-boilerplate",
+    "name": "react-redux-boilerplate",
     "author": {
         "name": "Kris Burke",
         "email": "kris.burke611@gmail.com"
     },
     "repository": {
-        "url": "https://github.com/krisburke/react-boilerplate"
+        "url": "https://github.com/krisburke/react-redux-boilerplate"
     },
-    "description": "Create React App boilerplate with extras.",
-    "version": "0.1.0",
+    "description": "Create React App boilerplate with Redux.",
+    "version": "1.0.0",
     "private": true,
     "dependencies": {
         "@blueprintjs/core": "^3.16.2",
@@ -20,20 +20,20 @@
         "@types/react-router-dom": "^4.3.4",
         "@types/styled-components": "^4.1.16",
         "@types/webpack-env": "^1.13.9",
-        "connected-react-router": "^6.4.0",
+        "connected-react-router": "^6.8.0",
         "history": "^4.9.0",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
         "react-redux": "^7.1.0",
-        "react-router-dom": "^5.0.1",
-        "react-scripts": "3.0.1",
-        "redux": "^4.0.1",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "3.4.1",
+        "redux": "^4.0.5",
         "redux-devtools-extension": "^2.13.8",
         "redux-thunk": "^2.3.0",
         "styled-components": "^4.3.2",
         "types": "^0.1.1",
         "typesafe-actions": "^4.4.2",
-        "typescript": "3.5.2"
+        "typescript": "3.9.5"
     },
     "devDependencies": {
         "husky": "^2.5.0",
